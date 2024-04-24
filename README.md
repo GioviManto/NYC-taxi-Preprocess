@@ -7,6 +7,7 @@ The data has been filtered to include only transactions paid for with a credit c
 
 Columns:
 pickup_hour: Hour of the pick-up
+
 pickup_month: Month of the pick-up (always May)
 pickup_week: Week of the pick-up
 pickup_doy: Day of the year of the pick-up (from 1 to 365)
